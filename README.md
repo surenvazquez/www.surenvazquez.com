@@ -1,1 +1,174 @@
-# www.surenvazquez.com
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<br>
+<br>
+<br>
+
+<div class="circular--portrait">
+  <img src="suren.jpeg" />
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Historia Aumentada</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+  </head>
+
+  <body>
+    <!-- Aquí empieza el encabezado principal que se mantendrá en todas las páginas del sitio web -->
+
+    <header>
+    <br>
+      <h1>Proyectos de Humanidades Digitales</h1>
+      <h2></h2>
+    </header>
+<br>
+<br>
+    <!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.circular--portrait {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(243, 72, 72);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(152, 161, 162);
+}
+
+.active {
+  background-color: #04AA6D;
+}
+</style>
+</head>
+<body>
+
+<div style="padding:20px;margin-top:30px;background-color:#c3eaeb;height:1500px;">
+  <h1>Humanidades Digitales</h1>
+  <h1>Historia</h1>
+  <h1>Perspectiva de género</h1>
+  <h1>Realidad Aumentada</h1>
+  <h1>Educación para toda la vida</h1>
+
+</div>
+
+</body>
+</html>
+        </style>
+        </head>
+        <body>
+        
+    
+      </article>
+
+      <aside>
+        <h2>Relacionado</h2>
+
+        <ul>
+          
+        </ul>
+       
+        <!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(44, 169, 207);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#">SUREN VÁZQUEZ MAYA</a></li>
+  <li><a href="#">Historia Aumentada</a></li>
+  <li><a href="#">Proyectos</a></li>
+  <li><a href="#">Tecnologías</a></li>
+  <li><a href="#">Contacto</a></li>
+</ul>
+
+</body>
+</html>
+      </aside>
+    </main>
+
+    <!-- Y aquí está nuestro pie de página principal que se utiliza en todas las páginas de nuestro sitio web -->
+
+    <footer>
+      <p>©Copyright 2023 Suren Vazquez Maya. Todos los derechos reservados.</p>
+    </footer>
+  </body>
+  
+ 
+
